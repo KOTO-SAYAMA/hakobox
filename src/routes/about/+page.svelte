@@ -1,5 +1,9 @@
 <h1>About</h1>
 
 <body>
-    <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+	<p>
+		We’re an NZ-based group of engineers thriving for innovation in projects and show the process
+		behind it. We’re starting our business by sharing our progress and results. We push limitations
+		and possibilities in developing products because making good things come first.
+	</p>
 </body>
